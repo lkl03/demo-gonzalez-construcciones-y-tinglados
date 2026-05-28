@@ -1,2 +1,7 @@
-# demo-gonzalez-construcciones-y-tinglados
-Demo web para González construcciónes y tinglados — diseñada por eterlab.
+# González construcciónes y tinglados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
